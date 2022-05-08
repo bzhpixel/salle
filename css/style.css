@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    background-color: lightblue;
+}
+
+main{
+    width: 100%;
+    height: 100%;
+}
+
+.recherche{
+
+    display:block;
+    width: 50%;
+    margin:auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.resultat{
+    height: 100%;
+    margin:auto;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+span{
+    margin:1rem;
+
+}
